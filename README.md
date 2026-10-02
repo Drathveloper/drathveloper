@@ -2,7 +2,7 @@
 
 Backend engineer based in Madrid with 8+ years building distributed systems, mostly in **Go**.
 
-- 🔐 Tech lead on authentication: OAuth 2.0, OpenID Connect, SAML and FIDO2 on a multi-tenant banking platform
+- 🔐 Authentication specialist: OAuth 2.0, OpenID Connect, SAML and FIDO2 on a multi-tenant banking platform
 - ☁️ Hands-on with infrastructure: Kubernetes, Terraform, Helm, ArgoCD on AWS
 - 🤖 Lately building AI agents and tooling with Python (FastAPI, PydanticAI, MCP)
 
