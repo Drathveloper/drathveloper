@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Drathveloper/drathveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Madrid with 8+ years building distributed systems, mostly in **Go**.
 
-Here are some ideas to get you started:
+- 🔐 Tech lead on authentication: OAuth 2.0, OpenID Connect, SAML and FIDO2 on a multi-tenant banking platform
+- ☁️ Hands-on with infrastructure: Kubernetes, Terraform, Helm, ArgoCD on AWS
+- 🤖 Lately building AI agents and tooling with Python (FastAPI, PydanticAI, MCP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Highlights**
+
+- [go-cloud-gateway](https://github.com/drathveloper/go-cloud-gateway): configurable API gateway written in Go
+- [uslogs](https://github.com/drathveloper/uslogs): efficient unstructured log handler for `slog`
+- [go-build-tools](https://github.com/drathveloper/go-build-tools): tooling to bootstrap and build Go projects
